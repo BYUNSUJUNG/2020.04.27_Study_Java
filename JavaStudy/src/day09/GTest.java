@@ -1,0 +1,15 @@
+package day09;
+
+public class GTest<T> {
+	private T data;
+	
+	public T getData() {
+		return data;
+	}
+	
+	public void setData(T data) {
+		this.data = data;
+	}
+
+
+} 
