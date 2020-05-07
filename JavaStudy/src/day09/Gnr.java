@@ -10,5 +10,6 @@ public class Gnr {
 		
 		System.out.println(g.getData());
 		System.out.println(g2.getData());
+			
 	}
 }
